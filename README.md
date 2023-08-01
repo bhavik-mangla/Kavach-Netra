@@ -3,7 +3,7 @@
 To launch Netra Website
 
 ```
-cd Deployed App
+cd Deployed\ App/
 python app.py
 ```
 
